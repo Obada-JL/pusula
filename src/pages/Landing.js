@@ -64,9 +64,7 @@ export default function Landing() {
                         figma kullanarak tasarlanmıştır
                     </Typography>
                     {<div dangerouslySetInnerHTML={{__html: donate}}/>}
-                    <Typography variant="body1" gutterBottom>
-                        1 oy Kemal'e, 1 oy TİP'e
-                    </Typography>
+                   
                 </Stack>
             </Box>
         </Container>
